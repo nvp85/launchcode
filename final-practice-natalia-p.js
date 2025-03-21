@@ -98,3 +98,40 @@ while (true) {
         console.log("Please enter a valid option.\n");
     }
 }
+
+/* In case if my text submission got lost I also include it here:
+1. Description:
+My application is a maintenance request tracking website for apartment management.
+Features:
+    Tenants can:
+        Submit a maintenance request (describe the issue, provide some additional info).
+        View their submitted requests.
+    Managers can:
+        View all requests.
+        Update the status of a request (Pending, In Progress, Completed).
+2. 
+- Organization and Time Management
+    I would write down all the requirements and features the app should have, design the user interface, and make a prototype. 
+    After that, I would break the project into small tasks (user stories) and prioritize the tasks based on how critical they are for the app. 
+    Then I would define milestones and set a deadline for each milestone. 
+- Values, Data Types, and Operations
+    I would use the skills from this module to avoid errors due to unexpected results from implicit type conversions. 
+- The Growth Mindset
+    This module encourages new experiences and challenges. 
+    When working on my app, I would research and try new frameworks and libraries that I haven’t used before.
+- Stringing Characters Together
+    Knowledge of the String methods is essential for processing user input, displaying messages for users, etc.  
+    Template strings help incorporate variable values into a message.
+- Control Structures and Logic
+    I can use if-else statements to make decisions in my app. 
+    For example, if a user entered an invalid value into a form field, then the app would show an error message. 
+    Or, if my app is supposed to display a list of maintenance requests but the list is empty (length == 0) then it would display a message “no requests found” instead. 
+- Working with Loops
+    I can use loops to go through an array and to process each element. 
+    For example, to loop through a list of maintenance requests and display each of them to a user. 
+- Building Arrays
+    I can create an array to store multiple pieces of similar data, like all maintenance requests in my app.
+- Using Arrays
+    I can use the Array methods such as filter, find, map, forEach, etc. 
+    For example, when I want to find a maintenance request by its ID in an array of requests.
+*/
